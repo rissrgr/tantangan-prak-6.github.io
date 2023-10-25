@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap");
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.nav-link.active {
+  color: #0d6efd !important;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo img {
+  width: 100px;
+  height: auto;
+}
+
+.logo h1 {
+  font-size: 30px;
+  margin-top: auto;
+  color: rgba(13, 13, 206, 0.932);
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
