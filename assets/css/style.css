@@ -15,14 +15,6 @@ body {
 }
 
 .logo img {
-  width: 100px;
+  width: 350px;
   height: auto;
-}
-
-.logo h1 {
-  font-size: 30px;
-  margin-top: auto;
-  color: rgba(13, 13, 206, 0.932);
-  font-weight: bolder;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
